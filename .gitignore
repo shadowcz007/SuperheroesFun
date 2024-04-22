@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+/md
+install.bat
+package-lock.json
+package.json
+dev.bat
+build.bat
